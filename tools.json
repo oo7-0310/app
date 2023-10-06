@@ -1,0 +1,8 @@
+{
+    "domain":{
+        "whois":{
+            "name":"whois-cli",
+            "github":"https://github.com/sheepla/whois-cli.git"
+        }
+    }
+}
